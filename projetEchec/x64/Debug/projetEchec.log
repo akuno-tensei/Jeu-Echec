@@ -1,0 +1,35 @@
+﻿   Qt/MSBuild: 3.5.0.0
+  Reading Qt configuration (C:/Qt/6.11.0/msvc2022_64/bin/qmake)
+   Qt: 6.11.0
+  Table.cpp
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Table.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x2a et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Table.cpp(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x48 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Table.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x22 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Table.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x3d et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Cavalier.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x25 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Cavalier.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x40 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Cavalier.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x229 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Piece.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x28 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Piece.h(1,1): warning C4828: Le fichier contient un caractère qui débute à l'offset 0x46 et qui est non conforme dans le jeu de caractères source actuel (page de codes 65001).
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Table.h(55,95): warning C4018: '<' : incompatibilité signed/unsigned
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Table.h(55,143): warning C4018: '<' : incompatibilité signed/unsigned
+  (compiler le fichier source 'Table.cpp')
+  
+C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\Table.cpp(100,1): warning C4715: 'Modele::Table::obtenirRoi' : les chemins de contrôle ne retournent pas tous une valeur
+  projetEchec.vcxproj -> C:\Users\admin\Poly\H2026\INF1015---H2026\projetEchec\x64\Debug\projetEchec.exe
